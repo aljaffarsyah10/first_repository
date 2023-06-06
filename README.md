@@ -1,2 +1,2 @@
 # first_repository
-Repository pertama saya
+Repository pertama saya...
